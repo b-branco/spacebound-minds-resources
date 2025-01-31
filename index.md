@@ -1,5 +1,5 @@
 ---
-title: Home
+# title: Home
 ---
 
 This is the home page for our online resources. Maybe some links on general mental health could go here? 
