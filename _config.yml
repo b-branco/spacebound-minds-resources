@@ -9,9 +9,8 @@ description: >
   An awesome description of Spacebound Minds and our awesome resources goes here.
 
 header_pages:
-  - index.md
   - another-page.md
 
 minima:
-  skin: solarized
+  skin: auto
   
