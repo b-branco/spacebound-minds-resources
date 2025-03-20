@@ -12,5 +12,5 @@ header_pages:
   - another-page.md
 
 minima:
-  skin: auto
+  skin: solarized-dark
   
