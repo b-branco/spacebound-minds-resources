@@ -19,13 +19,13 @@ The [health for kids](https://www.healthforkids.co.uk/) website has information 
 <!-- ... alternatively, add the theme-specific resources to [another page](another-page.md). -->
 <!-- We could also use more pages to create spaces for resources targeting children and parents. -->
 
-NHS page on sleep problems: https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/ 
+[NHS page on sleep problems](https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/)
 
-Health for kids on sleep: https://www.healthforkids.co.uk/staying-healthy/sleep/
+[Health for kids on sleep](https://www.healthforkids.co.uk/staying-healthy/sleep/)
 
-# Physical activity
+## Physical activity
 
-# Social contact
+## Social contact
 
 # Thank you for attending our workshop!
 
