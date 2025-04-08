@@ -6,7 +6,7 @@
 
 # Welcome back!
 
-During SpaceBound Minds, you joined scientists in building a space station where people of all ages can keep their brains and bodies healthy. Hopefully you gained a good idea of how everyday activities can shape our mental and physical wellbeing, all while building and decorating the rooms of a model space station. Now that the hard work is done, you get to enjoy your new happy place!
+During the Spacebound Minds workshop, you joined scientists in building a space station where people of all ages can keep their brains and bodies healthy. Hopefully you gained a good idea of how everyday activities can shape our mental and physical wellbeing, all while building and decorating the rooms of a model space station. Now that the hard work is done, you get to enjoy your new happy place!
 
 In this space, you will find resources if you want to learn more about mental health. 
 
