@@ -10,6 +10,7 @@
 .page-header {
     position: relative;
     overflow: hidden;
+    background-image: linear-gradient(120deg, #486196, #7f3971);
   
     h1,
     h2,
@@ -29,5 +30,5 @@
   }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: #312850;
+    color: #7f3971;
 }
