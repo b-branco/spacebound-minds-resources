@@ -7,6 +7,10 @@
 //     background-image: url('/images/Background-animation.png');
 // }
 
+body {
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
 .page-header {
     position: relative;
     overflow: hidden;
@@ -31,4 +35,19 @@
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: #7f3971;
+}
+
+.layout {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  padding: 20px;
+  background-color: #c6a7e2;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
 }
