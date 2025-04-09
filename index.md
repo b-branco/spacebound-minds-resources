@@ -26,8 +26,7 @@ The [health for kids](https://www.healthforkids.co.uk/) website has information 
 
 ## Sleep
 
-<!-- ... alternatively, add the theme-specific resources to [another page](another-page.md). -->
-<!-- We could also use more pages to create spaces for resources targeting children and parents. -->
+[Link to the sleep page](./sleep.html).
 
 [NHS page on sleep problems](https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/)
 
@@ -35,9 +34,15 @@ The [health for kids](https://www.healthforkids.co.uk/) website has information 
 
 ## Physical activity
 
+[Link to the physical activity page](./physical-activity.html).
+
 ## Social contact
 
+[Link to the social contact page](./social-contact.html).
+
 # Support
+
+[Link to the support page](./support.html).
 
 **If you or someone else is in danger, call 999 or go to your nearest A&E.** 
 
