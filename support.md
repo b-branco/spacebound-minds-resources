@@ -11,7 +11,6 @@ description: For advice and support with your (or someone else's) mental health,
 **For urgent help with your mental health, call NHS 24 by dialling 111 or [visit the 111 website](https://111.nhs.uk/).**
 
 <br>
-</br>
 
 Check out the [Health for Kids](https://www.healthforkids.co.uk/) website for advice on coping with hard feelings and ways to get help. There's lots of information for young people and grown-ups on all kinds of health topics!
 
