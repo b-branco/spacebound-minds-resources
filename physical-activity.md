@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Physical activity resources
-description: Page for resources related to physical activity
+title: Physical activity and well-being
+description: Learn more about how movement and exercise can help your well-being!
 ---
 
 ## Welcome to the physical activity resources
 
-[Back to index](./)

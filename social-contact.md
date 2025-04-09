@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Social contact resources
-description: Page for resources related to social contact
+title: Socialising and well-being
+description: Learn more about the importance of connecting with friends, loved ones (and even pets!)
 ---
 
 ## Welcome to the social contact resources
 
-[Back to index](./)
