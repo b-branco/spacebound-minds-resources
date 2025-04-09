@@ -16,22 +16,7 @@ Watch the tour of the whole space station, and see if you can spot your own happ
 
 Check out the links on the sidebar to find out more about mental health and wellbeing, and what you can do if you need support.
 
-<!-- It would be great to have tabs at the top of the page that link to each of the subheadings -->
-
-## General mental health
-
-
-
-The [health for kids](https://www.healthforkids.co.uk/) website has information for young people and grownups on different elements of health, feelings, illness, and getting help.
-
-## Sleep
-
-[Link to the sleep page](./sleep.html).
-
-[NHS page on sleep problems](https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/)
-
-[Health for kids on sleep](https://www.healthforkids.co.uk/staying-healthy/sleep/)
-
+---
 
 # Thank you for attending our workshop!
 
