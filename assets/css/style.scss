@@ -58,7 +58,18 @@ body {
   color: #7f3971; // Changes link color on hover
 }
 
+.sidebar ul {
+  list-style-image: url('../images/star-bullet.png'); // Use the star-bullet.png as the bullet
+  padding-left: 20px; // Add padding for proper alignment
+}
+
+.sidebar li {
+  margin-bottom: 10px; // Add spacing between list items
+}
+
 .main-content {
   flex: 1;
   padding: 20px;
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  color: #151515;
 }
