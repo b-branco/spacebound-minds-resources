@@ -1,23 +1,23 @@
 {
   "particles": {
     "number": {
-      "value": 120,          // Higher value = more particles
+      "value": 120,
       "density": {
         "enable": true,
-        "value_area": 800    // Lower area = tighter density
+        "value_area": 800
       }
     },
     "color": {
       "value": "#ffffff"
     },
     "shape": {
-      "type": "star",       // <-- switch from "circle" to "star"
+      "type": "star",
       "stroke": {
         "width": 0,
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 5        // Defines the star points if needed
+        "nb_sides": 5
       }
     },
     "opacity": {
