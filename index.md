@@ -41,7 +41,7 @@ The [health for kids](https://www.healthforkids.co.uk/) website has information 
 
 **If you or someone else is in danger, call 999 or go to your nearest A&E.** 
 
-<img style="float: right" src="./images/nhs24-logo.png" alt="NHS 24 logo. 'NHS' in capital letters in navy blue with symmetrical blue waves underneath and '24' in navy blue at the bottom." width="50" height="50">
+<img src="./images/nhs24-logo.png" alt="NHS 24 logo. 'NHS' in capital letters in navy blue with symmetrical blue waves underneath and '24' in navy blue at the bottom." width="80" height="80">
 
 **For urgent help with your mental health, call NHS 24 by dialling 111 or [visit the 111 website](https://111.nhs.uk/).**
 
