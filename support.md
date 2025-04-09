@@ -10,8 +10,14 @@ description: For advice and support with your (or someone else's) mental health,
 
 **For urgent help with your mental health, call NHS 24 by dialling 111 or [visit the 111 website](https://111.nhs.uk/).**
 
+<br>
+</br>
 
-The [NHS website on mental health](https://www.nhs.uk/mental-health/) is a useful place to start for information and support. There is a dedicated page on [mental health for children, teenagers and young adults](https://www.nhs.uk/mental-health/children-and-young-adults/) with advice for [teens](https://www.nhs.uk/mental-health/children-and-young-adults/help-for-teenagers-young-adults-and-students/) and [grown-ups](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/). 
+Check out the [Health for Kids](https://www.healthforkids.co.uk/) website for advice on coping with hard feelings and ways to get help. There's lots of information for young people and grown-ups on all kinds of health topics!
+
+The [NHS website on mental health](https://www.nhs.uk/mental-health/) has a dedicated page for children, teenagers and young adults with advice for [teens](https://www.nhs.uk/mental-health/children-and-young-adults/help-for-teenagers-young-adults-and-students/) and [grown-ups](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/).
+
+---
 
 ## For children and young people
 
@@ -32,11 +38,14 @@ Text **THEMIX** to **85258**. **[The Mix](https://www.themix.org.uk/)** also has
 
 Talk to **[FRANK](https://www.talktofrank.com/)** by calling **0300 123 6600**. You can also text FRANK on **82111** for confidential support, advice and information about drugs, their effects and the law.
 
----
+<br>
+</br>
 
 <img src="./images/Mind-Logo.png" alt="Mind logo in blue. A blue scribble connects to the word 'mind', written in lowercase in a handwriting-style font." width="80" height="40" style="float: left; margin-right: 10px">
 
 You can find more useful contacts on the **[Mind website](https://www.mind.org.uk/for-young-people/how-to-get-help-and-support/useful-contacts/)**. They have resources for all kinds of people, including LGBTQIA+ people, young women, young men and people of colour.
+
+---
 
 ## For grown-ups
 
@@ -52,7 +61,8 @@ Call **[Samaritans](https://www.samaritans.org/scotland/)** on **116 123** or co
 
 Text **SHOUT** to **85258**. You can visit the [SHOUT website](https://giveusashout.org/) for more advice on your mental health and to find support online.
 
----
+<br>
+</br>
 
 <img src="./images/Mind-Logo.png" alt="Mind logo in blue. A blue scribble connects to the word 'mind', written in lowercase in a handwriting-style font." width="80" height="40" style="float: left; margin-right: 10px">
 
