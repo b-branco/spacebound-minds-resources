@@ -39,7 +39,6 @@ Text **THEMIX** to **85258**. **[The Mix](https://www.themix.org.uk/)** also has
 Talk to **[FRANK](https://www.talktofrank.com/)** by calling **0300 123 6600**. You can also text FRANK on **82111** for confidential support, advice and information about drugs, their effects and the law.
 
 <br>
-</br>
 
 <img src="./images/Mind-Logo.png" alt="Mind logo in blue. A blue scribble connects to the word 'mind', written in lowercase in a handwriting-style font." width="80" height="40" style="float: left; margin-right: 10px">
 
@@ -62,7 +61,6 @@ Call **[Samaritans](https://www.samaritans.org/scotland/)** on **116 123** or co
 Text **SHOUT** to **85258**. You can visit the [SHOUT website](https://giveusashout.org/) for more advice on your mental health and to find support online.
 
 <br>
-</br>
 
 <img src="./images/Mind-Logo.png" alt="Mind logo in blue. A blue scribble connects to the word 'mind', written in lowercase in a handwriting-style font." width="80" height="40" style="float: left; margin-right: 10px">
 
