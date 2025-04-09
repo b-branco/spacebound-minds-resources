@@ -44,7 +44,18 @@ body {
 .sidebar {
   width: 250px;
   padding: 20px;
-  background-color: #c6a7e2;
+  background-color: #a1b2d8;
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+.sidebar a {
+  text-decoration: none; // Removes underline from links
+  color: #312850; // Sets the color of links
+  font-weight: bold; // Makes links bold
+}
+
+.sidebar a:hover {
+  color: #7f3971; // Changes link color on hover
 }
 
 .main-content {
