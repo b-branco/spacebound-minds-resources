@@ -12,7 +12,7 @@ Watch the tour of the whole space station, and see if you can spot your own happ
 
 > If the video isn't available yet, check back in a few weeks!
 
-Check out the links on the sidebar to find out more about mental health and wellbeing, and what you can do if you need support.
+Check out the links on the banner to find out more about mental health and wellbeing, and what you can do if you need support.
 
 ---
 

@@ -1,6 +1,6 @@
 # Spacebound Minds online resources
 
-This repository is part of the Spacebound Minds workshop held by researchers at the University of Edinburgh. It holds online mental health resources that young people and guardians can access after attending our workshop.
+This repository is part of the Spacebound Minds workshop delivered by researchers at the University of Edinburgh. It holds online mental health resources that young people and guardians can access after attending our workshop.
 
 ## Information for maintainers
 
@@ -9,3 +9,7 @@ This repository is part of the Spacebound Minds workshop held by researchers at 
 - To make changes to the colouring or styling, edit *assets/css/style.scss*.
 - Modify *_layouts/default.html* to edit the layout of the pages.
 - *particles.json* controls the interactive constellations in the banner. 
+
+## Credits
+
+The website is build using GitHub pages and the [Cayman theme](https://github.com/pages-themes/cayman). For the constellations in the banner, we use the awesome [particles.js](https://github.com/VincentGarreau/particles.js/) library by VincentGarreau.
