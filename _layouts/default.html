@@ -11,7 +11,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+    <link rel="shortcut icon" href="assets/images/favicon.ico">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -22,16 +22,13 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="{{ '/' | relative_url }}" class="btn">Home</a>
       <div class="dropdown">
-        <button class="btn dropdown-toggle">Well-being resources <span style="font-size: 0.8em;">&#x25BC;</span></button>
+        <button class="btn dropdown-toggle">Well-being resources <span style="font-size: 0.8em;">&#8964;</span></button>
         <div class="dropdown-menu">
           <a href="{{ '/sleep' | relative_url }}" class="dropdown-item">Sleep</a>
           <a href="{{ '/physical-activity' | relative_url }}" class="dropdown-item">Physical activity</a>
           <a href="{{ '/social-contact' | relative_url }}" class="dropdown-item">Social contact</a>
         </div>
       </div>
-      <style>
-        
-      </style>
       <!-- <a href="{{ '/sleep' | relative_url }}" class="btn">Well-being resources</a> -->
       <!-- <a href="{{ '/physical-activity' | relative_url }}" class="btn">Physical Activity</a>
       <a href="{{ '/social-contact' | relative_url }}" class="btn">Social Contact</a> -->
