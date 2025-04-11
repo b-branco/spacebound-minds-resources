@@ -1,5 +1,5 @@
 ---
-# title: Home
+# title: Spacebound Minds
 ---
 
 # Welcome back, astronauts!
