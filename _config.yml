@@ -1,12 +1,12 @@
 remote_theme: pages-themes/cayman@v0.2.0
 
-title: Spacebound Minds online resources
+title: Spacebound Minds
 author:
   name: Spacebound Minds
-  email: someone@ed.ac.uk
+  email: eileen.xu@ed.ac.uk
 
 description: >
-  Mission control have sorted out the basics — food, water, air — but the rest is up to you!
+  Online resources for you to learn more about mental health and well-being!
 
 header_pages:
   - another-page.md

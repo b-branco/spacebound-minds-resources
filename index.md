@@ -2,8 +2,6 @@
 # title: Home
 ---
 
-<!-- This is the home page for our online resources. Maybe some links on general mental health could go here?  -->
-
 # Welcome back, astronauts!
 
 In **Spacebound Minds**, you tested out what life could be like on another planet. We learned that we need lots more than just food, water and air to live a happy and healthy life. Our scientists shared that sleeping well, being active and socialising with friends and family were also important for looking after our well-being. 
