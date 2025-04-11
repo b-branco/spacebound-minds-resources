@@ -8,8 +8,10 @@ This repository is part of the Spacebound Minds workshop delivered by researcher
 - *_config.yml* holds information about the Jekyll theme + website name and description.
 - To make changes to the colouring or styling, edit *assets/css/style.scss*.
 - Modify *_layouts/default.html* to edit the layout of the pages.
-- *particles.json* controls the interactive constellations in the banner. 
+  - If you make changes to the favicons, make sure this repository's URL is harcoded into the href - otherwise the browser will look for the icons in my personal repo instead(!).
+- *particles.json* controls the interactive constellations in the banner.
 
 ## Credits
 
-The website is build using GitHub pages and the [Cayman theme](https://github.com/pages-themes/cayman). For the constellations in the banner, we use the awesome [particles.js](https://github.com/VincentGarreau/particles.js/) library by VincentGarreau.
+The Spacebound Minds website is built using GitHub pages and the [Cayman theme](https://github.com/pages-themes/cayman). 
+For the constellations in the banner, we use the awesome [particles.js](https://github.com/VincentGarreau/particles.js/) library by VincentGarreau.
