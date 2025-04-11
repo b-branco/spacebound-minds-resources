@@ -20,17 +20,22 @@
       <div id="particles-js"></div>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <div class="button-container">
-        <a href="{{ '/' | relative_url }}" class="btn">Home</a>
-        <a href="{{ '/sleep' | relative_url }}" class="btn">Well-being resources</a>
-        <a href="{{ '/support' | relative_url }}" class="btn">Get support</a>
+      <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+      <div class="dropdown">
+        <button class="btn dropdown-toggle">Well-being resources <span style="font-size: 0.8em;">&#x25BC;</span></button>
+        <div class="dropdown-menu">
+          <a href="{{ '/sleep' | relative_url }}" class="dropdown-item">Sleep</a>
+          <a href="{{ '/physical-activity' | relative_url }}" class="dropdown-item">Physical activity</a>
+          <a href="{{ '/social-contact' | relative_url }}" class="dropdown-item">Social contact</a>
+        </div>
       </div>
       <style>
         
       </style>
-      <!-- <a href="{{ '/' | relative_url }}" class="btn">Home</a>
-      <a href="{{ '/sleep' | relative_url }}" class="btn">Well-being resources</a>
-      <a href="{{ '/support' | relative_url }}" class="btn">Get support</a> -->
+      <!-- <a href="{{ '/sleep' | relative_url }}" class="btn">Well-being resources</a> -->
+      <!-- <a href="{{ '/physical-activity' | relative_url }}" class="btn">Physical Activity</a>
+      <a href="{{ '/social-contact' | relative_url }}" class="btn">Social Contact</a> -->
+      <a href="{{ '/support' | relative_url }}" class="btn">Get support</a>
       <!-- {% if site.github.is_project_page %} -->
         <!-- <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> -->
       <!-- {% endif %}
