@@ -4,7 +4,7 @@ title: Get Support
 description: For advice and support with your (or someone else's) mental health, take a look at the resources on this page
 ---
 
-**If you or someone else is in danger, call 999 or go to your nearest A&E.** 
+# **If you or someone else is in danger, call 999 immediately or go to your nearest A&E**
 
 <img src="./images/nhs24-logo.png" alt="NHS 24 logo. 'NHS' in capital letters in navy blue with symmetrical blue waves underneath and '24' in navy blue at the bottom." width="70" height="70" style="float: left; margin-right: 10px">
 
