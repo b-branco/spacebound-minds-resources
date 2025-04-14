@@ -22,6 +22,12 @@ The [NHS website on mental health](https://www.nhs.uk/mental-health/) has a dedi
 
 Some days can feel extra hard, but you're not alone. It might feel scary or silly to talk about how you're feeling, but it's really important. Try and talk to an adult you trust - maybe someone in your family, a doctor, or a teacher at school. They can help you work out your worries and arrange for you to get support if you need it.
 
+If you're feeling very stressed or upset, there are many techniques you can try to feel better. Check out the breathing and calming techniques below for some ideas - everyone's different, so it's worth trying out different things to see what works best for you.
+
+![Infographic containing the breathing techniques belly breathing, square breathing, and finger breathing.](images/breathing-techniques.png)
+
+![Infographic with the calming techniques 5-4-3-2-1, fact stating, and room search](images/calming-techniques.png)
+
 You can get help 24/7 from the options below. These are free and *confidential*, which means that what you say won't be shared with other people - **unless they think you or someone else is in danger**.
 
 <img src="./images/Childline_logo.png" alt="blue childline logo. First line of text undearneath the logo reads 'online, on the phone, anytime'. Second line of text reads 'childline.org.uk' and '0800 1111'" width="110" height="40" style="float: left; margin-right: 10px">
