@@ -43,13 +43,13 @@ Caffeine and sugary drinks before bed can make it harder to get good sleep. Thes
 
 # Want to learn more?
 
-Jessi from SciShow Kids explains why we need to sleep, and how to get good sleep in the video below:
+Jessi from SciShow Kids explains why we need to sleep, and how to get good sleep:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_aAmaCeq9v4?si=4AWu0mAThP2tKFcy" title="SciShow Kids - Why do we need sleep?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/_aAmaCeq9v4?si=4AWu0mAThP2tKFcy" title="SciShow Kids - Why do we need sleep?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Watch Operation Ouch get a sleep study and see how doctors can measure your sleep:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sWEuvQujt_4?si=KfzkQuQWhxWCKwqm" title="Operation Ouch - The Sleep Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/sWEuvQujt_4?si=KfzkQuQWhxWCKwqm" title="Operation Ouch - The Sleep Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Here's some more links you can check out to learn all about how to have a good night's sleep:
