@@ -29,10 +29,10 @@ Social connection is about the quality of our interactions, not the quantity of 
 
 If you're curious about how to build better friendships, feel less lonely, or improve your social confidence, check out these resources:
 
-- **[Youtube — How to Feel LESS Lonely](https://www.youtube.com/watch?v=8KNqdbHnZFI)**
+- **[Youtube – How to Feel LESS Lonely](https://www.youtube.com/watch?v=8KNqdbHnZFI)**  
   Video for all ages on what to do if you are feeling lonely.
 
-- **[Youtube — 2-Minute Neuroscience: HPA Axis](https://www.youtube.com/watch?v=QAeBKRaNri0)**
+- **[Youtube – 2-Minute Neuroscience: HPA Axis](https://www.youtube.com/watch?v=QAeBKRaNri0)**  
   Learn how the HPA axis works.
 
 - **[Childline – Top tips for making friends](https://www.childline.org.uk/info-advice/friends-relationships-sex/friends/top-tips-making-friends/)**  
