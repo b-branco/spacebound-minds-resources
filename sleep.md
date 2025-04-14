@@ -32,12 +32,12 @@ There's two main pieces to a good night's sleep - sleep **quantity** and sleep *
 
  **Sleep quantity** just means the amount of sleep we get. The perfect amount of sleep is different for everyone, and depends on how old you are. According to the experts:
 
-👶 Babies need around 12-16 hours, including naps. 
-🌱 Toddlers need around 11-14 hours of sleep, with naps.
-🌼 Kids between 3 and 5 years old need around 10-13 hours of total sleep.
-🍄 School-aged children (6-12 years old) need around 9-12 hours.
-🌵 Teenagers (13-18 years old) need around 8-10 hours.
-🌳 Adults (18+ years) need 7 or more hours.
+👶 Babies need around 12-16 hours, including naps.  
+🌱 Toddlers need around 11-14 hours of sleep, with naps.  
+🌼 Kids between 3 and 5 years old need around 10-13 hours of total sleep.  
+🍄 School-aged children (6-12 years old) need around 9-12 hours.  
+🌵 Teenagers (13-18 years old) need around 8-10 hours.  
+🌳 Adults (18+ years) need 7 or more hours.  
 
 **Sleep quality** is all about getting a refreshing and uninterrupted night's sleep. That means falling asleep at a good time and not getting woken up during the night. Having a bedtime routine - doing the same calming things every night before bed - can help you get a good night's sleep. Being consistent - keeping it up even on weekends - helps our brain learn to start sending out sleepy signals when you start your routine! 
 
