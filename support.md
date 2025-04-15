@@ -4,7 +4,7 @@ title: Get Support
 description: For advice and support with your (or someone else's) mental health, take a look at the resources on this page
 ---
 
-**If you or someone else is in danger, call 999 or go to your nearest A&E.** 
+# **If you or someone else is in danger, call 999 immediately or go to your nearest A&E**
 
 <img src="./images/nhs24-logo.png" alt="NHS 24 logo. 'NHS' in capital letters in navy blue with symmetrical blue waves underneath and '24' in navy blue at the bottom." width="70" height="70" style="float: left; margin-right: 10px">
 
@@ -22,11 +22,7 @@ The [NHS website on mental health](https://www.nhs.uk/mental-health/) has a dedi
 
 Some days can feel extra hard, but you're not alone. It might feel scary or silly to talk about how you're feeling, but it's really important. Try and talk to an adult you trust - maybe someone in your family, a doctor, or a teacher at school. They can help you work out your worries and arrange for you to get support if you need it.
 
-If you're feeling very stressed or upset, there are many techniques you can try to feel better. Check out the breathing and calming techniques below for some ideas - everyone's different, so it's worth trying out different things to see what works best for you.
-
-[![Infographic containing the breathing techniques belly breathing, square breathing, and finger breathing.](images/breathing-techniques-small.png)](images/breathing-techniques.png)
-
-[![Infographic with the calming techniques 5-4-3-2-1, fact stating, and room search](images/calming-techniques-small.png)](images/calming-techniques.png)
+If you're feeling very stressed or upset, there are many techniques you can try to feel better. Check out the [breathing and calming techniques](#breathing-and-calming-techniques) for some ideas - everyone's different, so it's worth trying out different things to see what works best for you.
 
 You can get help 24/7 from the options below. These are free and *confidential*, which means that what you say won't be shared with other people - **unless they think you or someone else is in danger**.
 
@@ -74,3 +70,10 @@ The [Mind website](https://www.mind.org.uk/information-support/) has more resour
 <img src="./images/seeMe-logo.png" alt="See Me Scotland logo. Black text reads 'See Me', with 'End mental health discrimination' below. Three circles with sections cut out to resemble talking mouths are in the top right corner in orange, green-yellow and teal." width="80" height="50" style="float: left; margin-right: 10px">
 
 [See Me Scotland](https://www.seemescotland.org/) have a [National Signposting Directory](https://www.seemescotland.org/media/9721/see-me-national-signposting-directory-final_rl_170119.pdf) which covers services available in Scotland, England and Wales.
+
+
+## Breathing and calming techniques
+
+[![Infographic containing the breathing techniques belly breathing, square breathing, and finger breathing.](images/breathing-techniques-small.png)](images/breathing-techniques.png)
+
+[![Infographic with the calming techniques 5-4-3-2-1, fact stating, and room search](images/calming-techniques-small.png)](images/calming-techniques.png)
