@@ -13,5 +13,5 @@ This repository is part of the Spacebound Minds workshop delivered by researcher
 
 ## Credits
 
-The Spacebound Minds website is built using GitHub pages and the [Cayman theme](https://github.com/pages-themes/cayman). 
+The Spacebound Minds website is built using GitHub Pages and the [Cayman theme](https://github.com/pages-themes/cayman). 
 For the constellations in the banner, we use the awesome [particles.js](https://github.com/VincentGarreau/particles.js/) library by VincentGarreau.
