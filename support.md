@@ -24,9 +24,9 @@ Some days can feel extra hard, but you're not alone. It might feel scary or sill
 
 If you're feeling very stressed or upset, there are many techniques you can try to feel better. Check out the breathing and calming techniques below for some ideas - everyone's different, so it's worth trying out different things to see what works best for you.
 
-![Infographic containing the breathing techniques belly breathing, square breathing, and finger breathing.](images/breathing-techniques.png)
+[![Infographic containing the breathing techniques belly breathing, square breathing, and finger breathing.](images/breathing-techniques-small.png)](images/breathing-techniques.png)
 
-![Infographic with the calming techniques 5-4-3-2-1, fact stating, and room search](images/calming-techniques.png)
+[![Infographic with the calming techniques 5-4-3-2-1, fact stating, and room search](images/calming-techniques-small.png)](images/calming-techniques.png)
 
 You can get help 24/7 from the options below. These are free and *confidential*, which means that what you say won't be shared with other people - **unless they think you or someone else is in danger**.
 
