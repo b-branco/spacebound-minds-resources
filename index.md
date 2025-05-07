@@ -10,7 +10,7 @@ Armed with all this new knowledge, we built and decorated a model of what our sp
 
 Watch the tour of the whole space station, and see if you can spot your own happy place: 
 
-> If the video isn't available yet, check back in a few weeks!
+<video src="https://drive.google.com/file/d/1tfX0shxk02-lkCEkPyZqBpC0F_u0Mk87/preview" controls></video>
 
 Check out the links on the banner to find out more about mental health and wellbeing, and what you can do if you need support.
 
